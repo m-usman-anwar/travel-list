@@ -1,0 +1,5 @@
+In this project, 
+many functionalities are used i.e. using states and derived state (making calculations using already existing states), 
+lifting up states means when one sibling want to pass data to other sibling this is not allowed in react, there is only flow down means parent can pass props to child & when there is situation where one sibling want to pass data to other sibling, we just lift up the state to their common parent.
+
+inserting an object into list or UI , updating data of object , deleting of object, conditional rendering. Form handling & on change handling of form 
